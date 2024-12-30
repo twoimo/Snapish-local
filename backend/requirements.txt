@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+torchvision
+torch
+ultralytics
+flask
+flask-sqlalchemy
+flask-cors
+waitress
+gdrive
+pillow
+python-dotenv
+korean_lunar_calendar
+pymysql
+PyJWT

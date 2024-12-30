@@ -1,0 +1,23 @@
+name: snapish
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - scipy
+  - torchvision
+  - pytorch
+  - flask
+  - flask-sqlalchemy
+  - flask-cors
+  - waitress
+  - gdrive
+  - ultralytics
+  - pillow
+  - python-dotenv
+  - korean_lunar_calendar
+  - pymysql
+  - PyJWT
+  - openai
+prefix: /opt/anaconda3/envs/snapish
